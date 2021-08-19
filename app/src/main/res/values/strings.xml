@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TourDelta</string>
+    <string-array name="planets_array">
+        <item>All Location</item>
+        <item>Warri</item>
+        <item>Sapele</item>
+        <item>Ugheli</item>
+        <item>Ozoro</item>
+        <item>Abraka</item>
+    </string-array>
+    <string name="m">M</string>
+</resources>
